@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=theakhiljha&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true" width="100%"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3NCRY9T3R)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theakhiljha)
