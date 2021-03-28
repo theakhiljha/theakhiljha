@@ -14,8 +14,6 @@ I have been working on various tech stacks & Cloud Platforms like Git, Flask, Dj
 
 <p align="center"
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakhiljha"/>
-<br>
-</br>
 </p>
 
 - 🔭 I’m currently working on: Web Development Projects
